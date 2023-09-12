@@ -1,0 +1,32 @@
+{
+    "IPOs": [
+      {
+        "IPOName": "ABC Inc IPO",
+        "IPONumber": "IPO12345",
+        "MaximumPrice": 1000.50,
+        "MinimumShares": 1000,
+        "SubscriptionPeriod": "2023-10-01 to 2023-10-05",
+        "PriceFixingDate": "2023-09-15",
+        "ListingDate": "2023-10-20"
+      },
+      {
+        "IPOName": "XYZ Corp IPO",
+        "IPONumber": "IPO67890",
+        "MaximumPrice": 750.75,
+        "MinimumShares": 500,
+        "SubscriptionPeriod": "2023-11-01 to 2023-11-05",
+        "PriceFixingDate": "2023-10-25",
+        "ListingDate": "2023-11-15"
+      },
+      {
+        "IPOName": "PQR Ltd IPO",
+        "IPONumber": "IPO54321",
+        "MaximumPrice": 550.25,
+        "MinimumShares": 750,
+        "SubscriptionPeriod": "2023-12-01 to 2023-12-05",
+        "PriceFixingDate": "2023-11-20",
+        "ListingDate": "2023-12-15"
+      }
+    ]
+  }
+  
